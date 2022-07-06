@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deneme11", "Deneme11\Deneme11.csproj", "{E45DA60B-4E84-43A9-A3E1-47B2037B3F11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerveReferansTipler", "DegerveReferansTipler\DegerveReferansTipler.csproj", "{E1C3C24E-781E-4B1F-91E9-63D359BEF3C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E45DA60B-4E84-43A9-A3E1-47B2037B3F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45DA60B-4E84-43A9-A3E1-47B2037B3F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45DA60B-4E84-43A9-A3E1-47B2037B3F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45DA60B-4E84-43A9-A3E1-47B2037B3F11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1C3C24E-781E-4B1F-91E9-63D359BEF3C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C3C24E-781E-4B1F-91E9-63D359BEF3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C3C24E-781E-4B1F-91E9-63D359BEF3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C3C24E-781E-4B1F-91E9-63D359BEF3C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D68B6F50-40FB-47D7-8A74-67591E011D59}
+	EndGlobalSection
+EndGlobal
